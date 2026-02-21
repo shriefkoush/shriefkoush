@@ -41,8 +41,13 @@ Always open to learning, improving, and collaborating on meaningful projects.
 
 ## What I Do  
 
-- Build cross-platform mobile apps using Flutter & Dart  
-- Apply clean architecture principles  
-- Convert UI/UX designs into responsive applications  
-- Integrate REST APIs  
-- Optimize performance and improve user experience  
+- Build cross-platform mobile applications using Flutter & Dart  
+- Implement scalable architecture (MVVM, Clean Architecture)  
+- Manage state efficiently using Provider and BLoC / Cubit  
+- Convert Figma designs into fully responsive, pixel-perfect UIs  
+- Integrate RESTful APIs and handle JSON parsing & HTTP requests  
+- Work with Firebase services (Authentication & Firestore)  
+- Implement localization (Arabic / English) and Light/Dark themes  
+- Debug, refactor, and optimize app performance  
+- Write clean, maintainable, and well-structured code  
+- Collaborate effectively in team environments and freelance projects  
